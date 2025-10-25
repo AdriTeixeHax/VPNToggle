@@ -2,7 +2,7 @@
   "uuid": "vpnToggle@AdriTeixeHax",
   "name": "VPN Toggle",
   "description": "Adds a toggle button to Quick Settings to activate or deactivate a configured VPN in openfortivpn.",
-  "shell-version": ["48"],
+  "shell-version": ["48", "49"],
   "version": 1,
   "session-modes": ["user"]
 }

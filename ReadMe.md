@@ -9,10 +9,17 @@ Adds a button in your GNOME quick settings to toggle ON or OFF a VPN configured 
 
 ## Installation
 
-- Install `openfortivpn`. For Arch Linux:
+- Install `openfortivpn`.
+#### Arch Linux:
 ```bash
 yay -S openfortivpn
 ```
+
+#### Debian:
+```bash
+apt install openfortivpn
+```
+
 - Configure `openfortivpn` by:
 ```bash
 sudo nano /etc/openfortivpn/config
